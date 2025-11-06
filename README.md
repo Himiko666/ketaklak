@@ -64,10 +64,6 @@
 
 <hr style="border: 0; height: 2px; background: #5865F2;">
 
-<h2 align="center">My Streams</h2>
-<p align="center" style="font-size: 1.2em;">
-  🎥 Watch my live streams on <a href="https://twitch.tv/keta_klak" target="_blank"><strong>Twitch</strong></a> and other platforms!
-</p>
 
 <hr style="border: 0; height: 2px; background: #5865F2;">
 
