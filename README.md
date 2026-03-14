@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
- | CEO of AnomalyaCorp - IT Maintenance & Web Development Company | 
+ 
 </p>
 
 <hr style="border: 0; height: 2px; background: #5865F2;">
